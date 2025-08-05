@@ -1,0 +1,3 @@
+# KPCA - CAM: Visual Explainability of Deep Computer Vision Models using Kernel PCA
+
+The paper introduces a new technique called KPCA-CAM, which enhances the interpretability of deep learning models, particularly Convolutional Neural Networks (CNNs) used for tasks like image classification. KPCA-CAM combines class activation maps (CAMs)—which highlight important image areas influencing model predictions—with Kernel Principal Component Analysis (KPCA) to better capture complex, nonlinear relationships in the CNN's activations. This method results in more accurate and clearer activation maps, helping to better understand the model's decision-making process. The approach outperforms existing CAM techniques in providing insights into the CNN's behavior.
